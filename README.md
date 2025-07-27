@@ -9,7 +9,7 @@ A responsive and aesthetic **Spotify Clone UI** built using **HTML** and **CSS**
 ## 📸 Preview
 
 ![Spotify UI Clone Screenshot](https://user-images.githubusercontent.com/0000000/spotify-ui-preview.png)
-*Add your own screenshot here*
+
 
 ---
 
